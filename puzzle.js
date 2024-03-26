@@ -6,7 +6,7 @@ var otherTile; //blank title
 
 var turns = 0;
 
-var imgOder = ["1", "2", "3", "4", "5", "6", "7", "8", "9",];
+var imgOder = ["3", "5", "2", "1", "6", "6", "7", "8", "4",];
 
 window.onload = function(){
     for (let r=0; r<rows; r++){
